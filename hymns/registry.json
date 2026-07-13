@@ -13,5 +13,20 @@
     "indexPath": "https://james-n-w.github.io/hymnal-translations/hymns/1353/indexed.txt",
     "tunePath": null,
     "melodyPath": null
+  },
+  "1355": {
+    "title": "ANFDKY",
+    "lang": "YFUL",
+    "category": "UG;UI",
+    "subcategory": "JHLV",
+    "authorLyrics": "BVJHV",
+    "authorMusic": "HJPIYP8",
+    "meter": "9.99.9.",
+    "addedAt": "2026-07-13T06:27:47.356Z",
+    "rawText": "HFFCCJJ;H'JM\nM'NO\nMNO\nKO;MKOKO;O;NH\nNPUOBIU[\nMIUNIHU;N",
+    "htmlPath": "https://james-N-W.github.io/hymnal-translations/hymns/1355/1355.html",
+    "indexPath": "https://james-N-W.github.io/hymnal-translations/hymns/1355/indexed.txt",
+    "tunePath": null,
+    "melodyPath": null
   }
 }
